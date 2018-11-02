@@ -1,2 +1,2 @@
 # first-thing
-fist try
+first try
